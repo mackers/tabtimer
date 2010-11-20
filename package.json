@@ -1,0 +1,8 @@
+{
+    "id": "jid0-eBczT9feCuIkDj1QzXY15Q9RBiQ", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "description": "TabTimer tracks how long you have had each tab open.", 
+    "author": "David McNamara (dave@briks.si)"
+}
